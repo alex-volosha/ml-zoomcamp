@@ -1,0 +1,2 @@
+def pinga():
+    return "PONG"
